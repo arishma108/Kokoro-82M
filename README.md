@@ -1,1 +1,1 @@
-Generating audiobooks from e-books with Kokoro-82M
+Generating audiobooks from e-books
